@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://cdn.sparkfun.com/assets/4/1/a/7/e/Quectel_LG290P_03__Hardware_Design_V1.0.pdf"
+	(property "Datasheet" ""
 		(at 0 10.033 0)
 		(unlocked yes)
 		(layer "F.Fab")

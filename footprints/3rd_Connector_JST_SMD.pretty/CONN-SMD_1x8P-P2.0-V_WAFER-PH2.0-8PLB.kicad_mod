@@ -27,19 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at -0.0254 -6.6642 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a80b922c-3c4e-48b5-bcf2-3ef79ed4657d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at -0.0254 -6.6642 0)
 		(unlocked yes)

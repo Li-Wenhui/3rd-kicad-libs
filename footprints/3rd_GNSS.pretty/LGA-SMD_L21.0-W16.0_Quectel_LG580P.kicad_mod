@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://cdn.sparkfun.com/assets/1/8/d/6/6/Quectel_LG580P_03__Hardware_Design_V1.0.0_Preliminary_20241012.pdf"
+	(property "Datasheet" ""
 		(at 0 12.463 0)
 		(unlocked yes)
 		(layer "F.Fab")

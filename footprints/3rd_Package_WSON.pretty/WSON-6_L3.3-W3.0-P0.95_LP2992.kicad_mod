@@ -218,15 +218,4 @@
 		(uuid "58804365-63db-4706-aa6c-e784b60935e1")
 	)
 	(embedded_fonts no)
-	(model "LP2992AILD-1.8_NOPB.stp"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 )

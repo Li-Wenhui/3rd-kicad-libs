@@ -26,7 +26,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf"
+	(property "Datasheet" ""
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -332,15 +332,4 @@
 		(uuid "2edfa6f2-b048-4fac-bd7b-26bc479ce818")
 	)
 	(embedded_fonts no)
-	(model "${SPARKFUN_KICAD_LIBRARY}/3dmodels/Semiconductor-Standard.3dshapes/TSSOP-24_4.4x7.8mm_P0.65mm.step"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 )

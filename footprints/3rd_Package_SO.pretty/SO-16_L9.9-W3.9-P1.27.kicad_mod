@@ -28,19 +28,6 @@
 			(justify bottom)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "1b844927-43ef-4cfe-91de-bd2d15617bb2")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -498,16 +485,5 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(thermal_bridge_angle 0)
 		(uuid "9722c337-d157-4467-95a6-9e1bff0d2f56")
-	)
-	(model "${SPARKFUN_KICAD_LIBRARY}/3dmodels/Semiconductor-Standard.3dshapes/SO-16_3.9x9.9mm_P1.27mm.step"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
 	)
 )

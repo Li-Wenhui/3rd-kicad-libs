@@ -334,15 +334,4 @@
 		(uuid "e76d1b4e-675e-4bd1-83e3-f581734cdfdb")
 	)
 	(embedded_fonts no)
-	(model "TPS923654DRRR.stp"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 )

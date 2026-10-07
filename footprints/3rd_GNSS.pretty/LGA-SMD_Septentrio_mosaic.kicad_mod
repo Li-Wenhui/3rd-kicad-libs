@@ -9472,39 +9472,4 @@
 		(uuid "570ac01d-c777-4324-9674-4b66423d7d3f")
 	)
 	(embedded_fonts no)
-	(model "${SPARKFUN_KICAD_LIBRARY}/3dmodels/GNSS.3dshapes/Septentrio_mosaic_sticker-H.wrl"
-		(hide yes)
-		(offset
-			(xyz -12.5 12.5 4.5)
-		)
-		(scale
-			(xyz 0.25 0.25 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${SPARKFUN_KICAD_LIBRARY}/3dmodels/GNSS.3dshapes/Septentrio_mosaic-X5-Rev5.step"
-		(offset
-			(xyz -15.5 -15.5 0.96)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${SPARKFUN_KICAD_LIBRARY}/3dmodels/GNSS.3dshapes/Septentrio_mosaic-Rev5.step"
-		(hide yes)
-		(offset
-			(xyz -15.5 -15.5 0.96)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 )
